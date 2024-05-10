@@ -1,0 +1,38 @@
+1. array & string
+- Two sum
+- valid parentheses
+-group anagrams
+
+2. linked lists
+- reverse linked list
+- merge two sort lists
+- linked list cycle
+
+3. Trees
+- max. depth of binary tree
+- validate binary search tree
+- lowest common ancestor of BST
+
+4. Dynamic Programming
+- climbing stairs
+- coin change
+
+5. Graphs
+- clone graph 
+- course schedule
+- number of islands
+
+6. recursion & backtracking
+- subsets
+-  permutation
+- N- queen
+
+7. sorting & searching
+- merge interval
+- search in rotated sorted array
+- Kth largest element in array
+
+8. Design 
+- LRU chache
+- Implement Trie (prefix Tree)
+- Design Twitter
