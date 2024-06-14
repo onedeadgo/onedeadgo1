@@ -1,2 +1,2 @@
-# onedeadgo1
+# job goal
 updated with new interview questions
